@@ -40,3 +40,4 @@ La prueba no es clara en cuanto a la llamada de datos para diferentes fechas / p
 ## Limitacion de responsabilidades y propiedad intelectual 🧠
 Codigo desarrollado unicamente por el autor atentiendo los requerimientos de la prueba enviada por email. Prohibida su ejecucion y aplicacion en ambientes         laborales o educativos sin la aprobacion expresa del autor, aprobacion que debe ser otorgada de manera escrita. 
 En caso de identificarse que la propiedad intelectual del codigo se esta ejecutando sin aprobacion, se acarrearan las medidas legales correspondientes de acuerdo con la gravedad de la situacion y el territorio donde se infrinja la ley de derechos de autor.
+
