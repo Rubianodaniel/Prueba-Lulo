@@ -9,7 +9,7 @@
 
 ## Ejecucion 🖊️
  1. Utilizar el interprete de Paython 3
- 2. 🏃 Ejecutar el archivo **main.py</sub**
+ 2. 🏃 Ejecutar el archivo **main.py**
 
 
 ## Informacion General ℹ️
